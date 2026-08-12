@@ -186,7 +186,7 @@ wielkie eksplozje/wycieki się nie zdarzają (a nawet jeśli, to nikt nam nie ch
 kiedy by to mogło być - do Czarnobyla też się nikt nie chciał przyznać). Jeżeli czynniki pogodowe
 mają realny wpływ na poziomy metanu, zatraca się ta relacja poprzez uśrednienie samych pomiarów. 
 I tak jestem w szoku, że mamy ten trend wzrostowy widoczny, to tym się pochwalimy
-przed prycypałami.
+przed pryncypałami.
 
 **Co jeszcze możemy zrobić ewentualnie** (brak gwarancji, że to zadziała):
 - zbadanie foldu 3 / okresu testowego pod kątem konkretnej anomalii (np. styczeń 2026),
